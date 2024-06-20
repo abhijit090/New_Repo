@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-15T20:21:24 IST" name="Default suite" finished-at="2024-06-15T20:26:13 IST" duration-ms="289798">
+    <groups>
+    </groups>
+    <test started-at="2024-06-15T20:21:24 IST" name="Default test" finished-at="2024-06-15T20:26:13 IST" duration-ms="289798">
+      <class name="CTT_Demo.ag_Grid_schema_skuQAchk">
+        <test-method is-config="true" signature="appLaunch()[pri:0, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:21:18 IST" name="appLaunch" finished-at="2024-06-15T20:21:24 IST" duration-ms="5438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method signature="CTT_Login_Page_Displayed_And_Enters_Login_Details()[pri:1, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:21:24 IST" name="CTT_Login_Page_Displayed_And_Enters_Login_Details" finished-at="2024-06-15T20:21:33 IST" duration-ms="8986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CTT_Login_Page_Displayed_And_Enters_Login_Details -->
+        <test-method signature="Verify_Login_Person_Name()[pri:2, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:21:33 IST" name="Verify_Login_Person_Name" finished-at="2024-06-15T20:21:37 IST" duration-ms="4086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Login_Person_Name -->
+        <test-method signature="open_Specific_Project()[pri:3, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:21:37 IST" name="open_Specific_Project" finished-at="2024-06-15T20:21:59 IST" duration-ms="22160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_Specific_Project -->
+        <test-method signature="Open_AGGrid_Screen()[pri:4, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:21:59 IST" name="Open_AGGrid_Screen" finished-at="2024-06-15T20:22:17 IST" duration-ms="18196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_AGGrid_Screen -->
+        <test-method signature="Verify_The_QA_Checks_Ohm_v_Omega_in_Values_and_UOMs()[pri:5, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:22:17 IST" name="Verify_The_QA_Checks_Ohm_v_Omega_in_Values_and_UOMs" finished-at="2024-06-15T20:22:35 IST" duration-ms="17749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Ohm_v_Omega_in_Values_and_UOMs -->
+        <test-method signature="Verify_The_QA_Checks_Dimensions_Without_Space_Separation()[pri:6, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:22:35 IST" name="Verify_The_QA_Checks_Dimensions_Without_Space_Separation" finished-at="2024-06-15T20:23:33 IST" duration-ms="58375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Dimensions_Without_Space_Separation -->
+        <test-method signature="Verify_The_QA_Checks_Value_Starts_With_Plus_Minus()[pri:7, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:23:33 IST" name="Verify_The_QA_Checks_Value_Starts_With_Plus_Minus" finished-at="2024-06-15T20:24:17 IST" duration-ms="44135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Value_Starts_With_Plus_Minus -->
+        <test-method signature="Verify_The_QA_Checks_Metric_UOM_with_Fraction_Check()[pri:8, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:24:17 IST" name="Verify_The_QA_Checks_Metric_UOM_with_Fraction_Check" finished-at="2024-06-15T20:24:36 IST" duration-ms="18321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Metric_UOM_with_Fraction_Check -->
+        <test-method signature="Verify_The_QA_Checks_Text_with_Unit_of_Measure()[pri:9, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:24:36 IST" name="Verify_The_QA_Checks_Text_with_Unit_of_Measure" finished-at="2024-06-15T20:24:47 IST" duration-ms="11699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Text_with_Unit_of_Measure -->
+        <test-method signature="Verify_The_QA_Checks_NA_NR_or_BlankCheck()[pri:10, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:24:47 IST" name="Verify_The_QA_Checks_NA_NR_or_BlankCheck" finished-at="2024-06-15T20:25:03 IST" duration-ms="15998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_NA_NR_or_BlankCheck -->
+        <test-method signature="Verify_The_QA_Checks_Single_Letter_Value()[pri:11, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:25:03 IST" name="Verify_The_QA_Checks_Single_Letter_Value" finished-at="2024-06-15T20:25:18 IST" duration-ms="14963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Single_Letter_Value -->
+        <test-method signature="Verify_The_QA_Checks_Wire_With_Hash_Check()[pri:12, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:25:18 IST" name="Verify_The_QA_Checks_Wire_With_Hash_Check" finished-at="2024-06-15T20:26:13 IST" duration-ms="55053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_The_QA_Checks_Wire_With_Hash_Check -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:CTT_Demo.ag_Grid_schema_skuQAchk@782859e]" started-at="2024-06-15T20:26:13 IST" name="closeBrowser" finished-at="2024-06-15T20:26:14 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- CTT_Demo.ag_Grid_schema_skuQAchk -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

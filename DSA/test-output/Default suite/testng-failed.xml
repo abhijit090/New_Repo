@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="CTT_Demo.natalie_Norm_SchemaCheck">
+        <methods>
+          <include name="Verify_The_Duplicate_priority_SecondPriority_Set"/>
+          <include name="Verify_The_Attribute_Name_Hex_Check_Set_firstATTName"/>
+          <include name="closeBrowser"/>
+          <include name="Verify_The_DataType_Text_with_Numeric_Sample_Values"/>
+          <include name="Verify_The_Characters_in_Attribute_Name_regx"/>
+          <include name="Verify_The_Duplicate_priority_First_Priority_set"/>
+          <include name="Verify_The_LOV_Datatype_Missing_LOV"/>
+          <include name="Verify_The_Trailing_OR_Leading_Space_in_Lov_Values"/>
+          <include name="Verify_The_Sample_Values_and_LOV_Contradictions"/>
+          <include name="Verify_The_Title_Case_Check_in_LOV_Values"/>
+          <include name="Verify_The_Blank_Meta_Attribute_Check"/>
+          <include name="Verify_The_Trailing_OR_Leading_Space_in_Attribute_Name"/>
+          <include name="Verify_The_Definitions_without_Terminal_Punctuation"/>
+          <include name="Verify_The_Title_Case_Check_in_Attribute_Name"/>
+          <include name="Verify_The_Unwanted_Capitalization_in_Attribute_Names"/>
+          <include name="appLaunch"/>
+          <include name="Verify_The_Three_Sample_Values"/>
+          <include name="Verify_The_Missing_UOM"/>
+          <include name="Verify_The_Same_Definition_Different_Attribute_Name"/>
+          <include name="Verify_The_Sample_Values_Require_Leading_Zero"/>
+          <include name="Verify_The_Missing_Priority"/>
+          <include name="Verify_The_Unwanted_Capitalization_in_LOV_Values"/>
+          <include name="Verify_The_LOV_Usage_Check"/>
+          <include name="Verify_The_Attribute_Name_Hex_Check_Set_FirstLOV"/>
+          <include name="Verify_The_Attribute_Name_Hex_Check_Set_secondATTName"/>
+          <include name="Verify_The_DataType_Number_with_Text_Sample_Values"/>
+          <include name="Verify_The_Attribute_Name_Hex_Check_Set_secondLOV"/>
+          <include name="Verify_The_SampleValues_and_UOM_Delimiter_Check_Lovs_as_well"/>
+        </methods>
+      </class> <!-- CTT_Demo.natalie_Norm_SchemaCheck -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
